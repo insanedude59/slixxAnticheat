@@ -1,3 +1,5 @@
+# Download: https://upcdn.io/W142hJk7vJSSLoTUnd7i6NK
+
 ## 	Setup instructions are as below.
 	1. Go to the RemoteEvent named 'a2' and parent it to ReplicatedStorage. Put the SlixxAnticheat folder into ServerScriptService.
 	2. Go to the LocalScript CL and parent them to StarterPlayerScripts. The LocalScript will automatically be destroyed from StarterPlayerScripts upon joining to prevent it from being seen.
