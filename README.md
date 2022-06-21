@@ -1,7 +1,8 @@
 ## 	Setup instructions are as below.
-	1. Go to the RemoteEvent named 'a2' and parent it to ReplicatedStorage.
+	1. Go to the RemoteEvent named 'a2' and parent it to ReplicatedStorage. Put the SlixxAnticheat folder into ServerScriptService.
 	2. Go to the LocalScript CL and parent them to StarterPlayerScripts. The LocalScript will automatically be destroyed from StarterPlayerScripts upon joining to prevent it from being seen.
-	2. (Optional, but recommended) Configure the anticheat settings as you wish by going to AnticheatSettings. Explanations of the settings are in there.
+	3. (Optional, but recommended) Configure the anticheat settings as you wish by going to AnticheatSettings. Explanations of the settings are in there.
+	4. Navigate to ServerScriptService, and turn on LoadstringEnabled in the Properties panel.
 	
 	That is all, you are done!
 
