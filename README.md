@@ -1,5 +1,4 @@
 
-
 	### Setup instructions are as below.
 	```
 	1. Go to the RemoteEvent named 'a2' and parent it to ReplicatedStorage.
@@ -48,6 +47,6 @@
 	_G.DisableJumpPower(player <string>,jumppower <number> )
 	
 	EXAMPLE USAGE:
-	_G.DisableJumpPower("personificationes",50)	
+	_G.DisableJumpPower("personificationes",50)
 
 
