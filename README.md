@@ -1,6 +1,6 @@
 
 
-	##Setup instructions are as below.
+	### Setup instructions are as below.
 	```
 	1. Go to the RemoteEvent named 'a2' and parent it to ReplicatedStorage.
 	2. Go to the LocalScript CL and parent them to StarterPlayerScripts. The LocalScript will automatically be destroyed from StarterPlayerScripts upon joining to prevent it from being seen.
@@ -12,7 +12,7 @@
 
 
 
-	API Documents:
+	### API Documents:
 	
 	_G.ChangeWalkSpeed(player <string>,walkspeed <number> ) - Changes the walkspeed for a player, bypassing the walkspeed checks for the selected player, NOTE: You can only use this function in a ServerScript. 
 	Do not use this in a localscript. It will not work
