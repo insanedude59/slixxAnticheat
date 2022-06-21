@@ -10,7 +10,7 @@
 ```
 
 
---[[
+
 
 	API Documents:
 	
@@ -50,4 +50,4 @@
 	EXAMPLE USAGE:
 	_G.DisableJumpPower("personificationes",50)	
 
---]]
+
