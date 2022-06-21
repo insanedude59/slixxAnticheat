@@ -1,4 +1,4 @@
-
+--[[
 
 	Setup instructions are as below.
 	1. Go to the RemoteEvent named 'a2' and parent it to ReplicatedStorage.
@@ -6,7 +6,10 @@
 	2. (Optional, but recommended) Configure the anticheat settings as you wish by going to AnticheatSettings. Explanations of the settings are in there.
 	
 	That is all, you are done!
+--]]
 
+
+--[[
 
 	API Documents:
 	
@@ -46,4 +49,4 @@
 	EXAMPLE USAGE:
 	_G.DisableJumpPower("personificationes",50)	
 
-
+]]
