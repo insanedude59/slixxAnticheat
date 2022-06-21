@@ -1,0 +1,8 @@
+local Players = game:GetService("Players")
+local banstore = game:GetService("DataStoreService"):GetDataStore("BanDS")
+
+Players.PlayerAdded:Connect(function(player)
+	if banstore:GetAsync(player.UserId) then
+		player:Kick("[Permanently Banned] \n \n \n You have been permanently banned by the anticheat for exploiting. If you think this is a mistake, please appeal in our communications server.")
+	end
+end)
