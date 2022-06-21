@@ -32,7 +32,7 @@
 	_G.DisableAnticheatForPlayer(player <string>) - Turns off the physics detections on the serverscript. This does not apply to the client side for security reasons.
 
 	EXAMPLE USAGE:
-	_G.DisableAnticheatForPlayer("personificationes")
+	## _G.DisableAnticheatForPlayer("personificationes")
 	
 	
 	
