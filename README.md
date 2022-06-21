@@ -6,7 +6,6 @@
 	2. (Optional, but recommended) Configure the anticheat settings as you wish by going to AnticheatSettings. Explanations of the settings are in there.
 	
 	That is all, you are done!
-```
 
 
 
